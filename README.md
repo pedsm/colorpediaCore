@@ -1,3 +1,3 @@
-# Colorpedia Core
+# TypeScript template for node
 
-The core engine for colorscheme conversion
+A simple Node Typescript template for quick development
