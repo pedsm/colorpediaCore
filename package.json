@@ -1,0 +1,23 @@
+{
+  "name": "colorpediacore",
+  "version": "0.1",
+  "description": "A colorscheme converter",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedsm/colorpediaCore.git"
+  },
+  "author": "pedsm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedsm/colorpediaCore/issues"
+  },
+  "homepage": "https://github.com/pedsm/colorpediaCore#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.6"
+  }
+}
